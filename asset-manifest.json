@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcrudapp/static/css/main.dbfa32ef.css",
+    "main.js": "/reactcrudapp/static/js/main.63dc4e49.js",
+    "index.html": "/reactcrudapp/index.html",
+    "main.dbfa32ef.css.map": "/reactcrudapp/static/css/main.dbfa32ef.css.map",
+    "main.63dc4e49.js.map": "/reactcrudapp/static/js/main.63dc4e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbfa32ef.css",
+    "static/js/main.63dc4e49.js"
+  ]
+}
